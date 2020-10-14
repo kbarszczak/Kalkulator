@@ -33,3 +33,5 @@ button0=Button(root, text="0", fg="#875c00", bg="#ffff9c", activeforeground="#87
 button_comma=Button(root, text=",", fg="#875c00", bg="#ffff9c", activeforeground="#875c00", activebackground="#ffffcf", padx="42", pady="20").grid(row=8,column=2)
 
 root.mainloop()
+
+a=5;
