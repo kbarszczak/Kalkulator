@@ -1,4 +1,5 @@
 from tkinter import *
+#sdasd
 
 root=Tk()
 root.title("Kalkulator")
