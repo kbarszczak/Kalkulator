@@ -34,4 +34,4 @@ button_comma=Button(root, text=",", fg="#875c00", bg="#ffff9c", activeforeground
 
 root.mainloop()
 
-a=8
+a=213
